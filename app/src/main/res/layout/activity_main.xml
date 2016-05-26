@@ -25,6 +25,15 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/but_stop"/>
+        <EditText
+            android:layout_margin="20pt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/edit_text"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="초"/>
     </LinearLayout>
     <ViewFlipper
         android:layout_width="match_parent"
